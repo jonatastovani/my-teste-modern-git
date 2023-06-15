@@ -17,7 +17,7 @@ Ext.define('MyTesteModernGit.view.personnel.PersonnelView',{
     },
     columns: [
         {
-            text: 'Name',
+            text: 'Nome aqui',
             dataIndex: 'name',
             editable: true,
             width: 100,
