@@ -1,0 +1,1 @@
+# MyTesteModernGit shared/app
